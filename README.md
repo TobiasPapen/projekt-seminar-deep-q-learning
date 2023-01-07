@@ -32,6 +32,6 @@ Dieses Verzeichnis enthält die Graphen, die während der Einzelarbeit von Paul 
 ### Zur Einrichtung der Arbeitsumgebung: ###
 Zur Einrichtung unserer Arbeitsumgebung haben wir die Python Distribution Anaconda verwendet.
 Über diese haben wir die Module installiert:
--
--
--
+- X
+- X
+- X
