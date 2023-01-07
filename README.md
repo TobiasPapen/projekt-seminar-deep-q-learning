@@ -31,7 +31,9 @@ Dieses Verzeichnis enthält die Graphen, die während der Einzelarbeit von Paul 
 
 ### Zur Einrichtung der Arbeitsumgebung: ###
 Zur Einrichtung unserer Arbeitsumgebung haben wir die Python Distribution Anaconda verwendet.
-Über diese haben wir die Module installiert:
-- X
-- X
-- X
+Über diese haben wir die Module installiert (hier direkt mit dem jeweiligen Befehl):
+- pip install gym[atari]
+- pip install ale_py
+- pip install autorom[accept-rom-license]
+- pip install torch
+- conda install pytorch-cuda = 11.6
