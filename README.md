@@ -4,7 +4,7 @@
 
 ### Zur Einteilung der Gruppe: ###
 Die vierer Gruppe aus den oben genannten Personen wurde in die folgenden zwei Teilgruppen aufgeteilt:
-  1. Tobias Pappen"
+  1. Tobias Pappen
   2. Simon Lausch, Jan Felix Fuchs und Paul Jansen <br>
 
 Beide Gruppen verfolgten unterschiedliche Ansätze des Deep Reinforcement Learning, um das Atari Spiel Freeway möglichst erfolgreich von einer künstlichen Intelligenz spielen zu lassen. Tobias Pappen ging in Einzelarbeit dem model-based Ansatz ME-TRPO nach. Alle weiteren Informationen zu der Arbeit von Tobias Pappen finden sich in einem zusätzlichen, extra dafür angelegten GitHub Repository. Dieses Repository enthält ausschließlich die Ergebnisse der Dreiergruppe, welche sich mit dem model-free Ansatz Deep Q-Learning beschäftigte. Aus Gründen der Berwertbarkeit, teilte sich die Gruppe ca. nach der Hälfte des Semesters auf die einzelne Personen auf, um dann in Einzelarbeit unterschiedlichen Ansätzen nachzugehen. Folglich bestehen die in diesem Repository hinterlegten Ergebnisse aus zwei Bestandteilen:
