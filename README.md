@@ -24,10 +24,14 @@ Dieses Verzeichnis enthält die trainierten Models, die im Rahmen der Gruppenarb
 Dieses Verzeichnis enthält die Graphen, die während des Trainings des DQN enstanden sind
 - ***Trained Models CNN Jan Felix:***
 Dieses Verzeichnis enthält die trainierten Models, die im Rahmen der Einzelarbeit von Jan Felix Fuchs entstanden sind
+- ***Trained models_cropped RAM_Simon:***
+Dieses Verzeichnis enthält die trainierten Models, die im Rahmen der Einzelarbeit von Simon Lausch entstanden sind
 - ***Graphs CNN Jan Felix:***
 Dieses Verzeichnis enthält die Graphen, die während der Einzelarbeit von Jan Felix Fuchs entstanden sind
 - ***Graphs CNN Paul:***
 Dieses Verzeichnis enthält die Graphen, die während der Einzelarbeit von Paul Jansen entstanden sind
+- ***Diagram DQN Cropped Ram Simon:***
+Dieses Verzeichnis enthält die Diagramme, die während der Einzelarbeit von Simon Lausch entstanden sind
 
 ### Zur Einrichtung der Arbeitsumgebung: ###
 Zur Einrichtung unserer Arbeitsumgebung haben wir die Python Distribution Anaconda verwendet.
