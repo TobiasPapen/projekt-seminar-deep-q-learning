@@ -1,0 +1,800 @@
+0
+episode  0 score -88888.00 epsilon 0.97 crash count: 89
+0
+episode  1 score -89728.50 epsilon 0.97 crash count: 175
+2
+episode  2 score -65607.00 epsilon 0.94 crash count: 273
+0
+episode  3 score -88102.00 epsilon 0.91 crash count: 358
+0
+episode  4 score -85185.00 epsilon 0.88 crash count: 439
+0
+episode  5 score -89117.00 epsilon 0.85 crash count: 525
+1
+episode  6 score -76137.00 epsilon 0.82 crash count: 607
+2
+episode  7 score -68773.00 epsilon 0.78 crash count: 693
+0
+episode  8 score -90573.50 epsilon 0.75 crash count: 777
+0
+episode  9 score -92016.00 epsilon 0.72 crash count: 858
+1
+episode  10 score -75303.00 epsilon 0.69 crash count: 927
+0
+episode  11 score -89963.00 epsilon 0.66 crash count: 1009
+1
+episode  12 score -81402.50 epsilon 0.63 crash count: 1109
+1
+episode  13 score -77853.50 epsilon 0.60 crash count: 1192
+1
+episode  14 score -80586.50 epsilon 0.57 crash count: 1261
+2
+episode  15 score -62188.50 epsilon 0.54 crash count: 1330
+3
+episode  16 score -49131.00 epsilon 0.51 crash count: 1410
+1
+episode  17 score -72232.00 epsilon 0.48 crash count: 1476
+1
+episode  18 score -70267.00 epsilon 0.45 crash count: 1536
+2
+episode  19 score -58133.50 epsilon 0.42 crash count: 1595
+3
+episode  20 score -45189.00 epsilon 0.39 crash count: 1649
+3
+episode  21 score -49973.50 epsilon 0.35 crash count: 1718
+4
+episode  22 score -32784.00 epsilon 0.32 crash count: 1778
+6
+episode  23 score -5047.00 epsilon 0.29 crash count: 1841
+4
+episode  24 score -33966.00 epsilon 0.26 crash count: 1899
+4
+episode  25 score -32803.50 epsilon 0.23 crash count: 1964
+6
+episode  26 score -12007.50 epsilon 0.20 crash count: 2026
+3
+episode  27 score -39724.00 epsilon 0.17 crash count: 2083
+4
+episode  28 score -34214.00 epsilon 0.14 crash count: 2152
+7
+episode  29 score 6784.50 epsilon 0.11 crash count: 2203
+4
+episode  30 score -31491.50 epsilon 0.08 crash count: 2255
+1
+episode  31 score -57786.50 epsilon 0.05 crash count: 2327
+6
+episode  32 score -13643.50 epsilon 0.02 crash count: 2368
+9
+episode  33 score 26745.00 epsilon 0.01 crash count: 2422
+6
+episode  34 score -5236.50 epsilon 0.01 crash count: 2470
+7
+episode  35 score 1729.00 epsilon 0.01 crash count: 2513
+7
+episode  36 score 5127.00 epsilon 0.01 crash count: 2566
+10
+episode  37 score 35340.50 epsilon 0.01 crash count: 2614
+8
+episode  38 score 10030.00 epsilon 0.01 crash count: 2657
+7
+episode  39 score 231.50 epsilon 0.01 crash count: 2705
+8
+episode  40 score 14011.00 epsilon 0.01 crash count: 2763
+1
+episode  41 score -60363.00 epsilon 0.01 crash count: 2834
+9
+episode  42 score 27242.00 epsilon 0.01 crash count: 2887
+11
+episode  43 score 47467.00 epsilon 0.01 crash count: 2939
+10
+episode  44 score 34652.00 epsilon 0.01 crash count: 2994
+1
+episode  45 score -57987.00 epsilon 0.01 crash count: 3062
+11
+episode  46 score 44445.00 epsilon 0.01 crash count: 3113
+9
+episode  47 score 26649.00 epsilon 0.01 crash count: 3166
+10
+episode  48 score 39500.00 epsilon 0.01 crash count: 3217
+9
+episode  49 score 27180.00 epsilon 0.01 crash count: 3271
+6
+episode  50 score -5363.00 epsilon 0.01 crash count: 3327
+0
+episode  51 score -90467.50 epsilon 0.97 crash count: 3422
+2
+episode  52 score -61518.00 epsilon 0.94 crash count: 3504
+0
+episode  53 score -91469.50 epsilon 0.91 crash count: 3594
+0
+episode  54 score -90819.00 epsilon 0.88 crash count: 3693
+1
+episode  55 score -76512.00 epsilon 0.85 crash count: 3785
+4
+episode  56 score -34984.00 epsilon 0.82 crash count: 3858
+0
+episode  57 score -85949.50 epsilon 0.78 crash count: 3949
+2
+episode  58 score -59804.50 epsilon 0.75 crash count: 4030
+1
+episode  59 score -73849.50 epsilon 0.72 crash count: 4113
+4
+episode  60 score -38670.00 epsilon 0.69 crash count: 4193
+3
+episode  61 score -52695.00 epsilon 0.66 crash count: 4285
+5
+episode  62 score -22106.50 epsilon 0.63 crash count: 4355
+3
+episode  63 score -49070.00 epsilon 0.60 crash count: 4432
+2
+episode  64 score -56965.00 epsilon 0.57 crash count: 4506
+6
+episode  65 score -10649.50 epsilon 0.54 crash count: 4574
+4
+episode  66 score -33481.00 epsilon 0.51 crash count: 4646
+2
+episode  67 score -58023.00 epsilon 0.48 crash count: 4732
+3
+episode  68 score -45802.50 epsilon 0.45 crash count: 4811
+5
+episode  69 score -20619.00 epsilon 0.42 crash count: 4885
+6
+episode  70 score -13671.50 epsilon 0.39 crash count: 4956
+5
+episode  71 score -24346.50 epsilon 0.35 crash count: 5025
+7
+episode  72 score -2049.00 epsilon 0.32 crash count: 5093
+9
+episode  73 score 24172.00 epsilon 0.29 crash count: 5156
+4
+episode  74 score -29115.00 epsilon 0.26 crash count: 5228
+5
+episode  75 score -18174.00 epsilon 0.23 crash count: 5299
+8
+episode  76 score 15551.50 epsilon 0.20 crash count: 5358
+2
+episode  77 score -56740.50 epsilon 0.17 crash count: 5439
+6
+episode  78 score -5723.50 epsilon 0.14 crash count: 5509
+3
+episode  79 score -38966.50 epsilon 0.11 crash count: 5577
+5
+episode  80 score -15892.00 epsilon 0.08 crash count: 5642
+9
+episode  81 score 25909.00 epsilon 0.05 crash count: 5698
+10
+episode  82 score 35259.00 epsilon 0.02 crash count: 5753
+10
+episode  83 score 36286.00 epsilon 0.01 crash count: 5807
+12
+episode  84 score 58132.00 epsilon 0.01 crash count: 5859
+10
+episode  85 score 38312.00 epsilon 0.01 crash count: 5912
+11
+episode  86 score 47597.00 epsilon 0.01 crash count: 5965
+11
+episode  87 score 48732.00 epsilon 0.01 crash count: 6017
+1
+episode  88 score -56988.50 epsilon 0.01 crash count: 6085
+0
+episode  89 score -70085.50 epsilon 0.01 crash count: 6157
+12
+episode  90 score 58510.00 epsilon 0.01 crash count: 6209
+11
+episode  91 score 49083.00 epsilon 0.01 crash count: 6261
+12
+episode  92 score 58015.50 epsilon 0.01 crash count: 6313
+12
+episode  93 score 58768.50 epsilon 0.01 crash count: 6364
+10
+episode  94 score 37844.00 epsilon 0.01 crash count: 6418
+1
+episode  95 score -58004.50 epsilon 0.01 crash count: 6488
+10
+episode  96 score 36546.50 epsilon 0.01 crash count: 6541
+10
+episode  97 score 36981.00 epsilon 0.01 crash count: 6594
+10
+episode  98 score 37818.50 epsilon 0.01 crash count: 6648
+10
+episode  99 score 37085.50 epsilon 0.01 crash count: 6702
+0
+episode  100 score -70148.50 epsilon 0.01 crash count: 6776
+0
+episode  101 score -90532.50 epsilon 0.97 crash count: 6864
+2
+episode  102 score -61190.00 epsilon 0.94 crash count: 6946
+1
+episode  103 score -75993.50 epsilon 0.91 crash count: 7030
+0
+episode  104 score -85033.00 epsilon 0.88 crash count: 7111
+1
+episode  105 score -72686.00 epsilon 0.85 crash count: 7198
+2
+episode  106 score -58925.50 epsilon 0.82 crash count: 7273
+1
+episode  107 score -78026.50 epsilon 0.78 crash count: 7371
+3
+episode  108 score -49557.50 epsilon 0.75 crash count: 7448
+5
+episode  109 score -27407.00 epsilon 0.72 crash count: 7524
+3
+episode  110 score -43463.00 epsilon 0.69 crash count: 7597
+1
+episode  111 score -72892.50 epsilon 0.66 crash count: 7678
+2
+episode  112 score -59486.50 epsilon 0.63 crash count: 7761
+5
+episode  113 score -28798.00 epsilon 0.60 crash count: 7839
+2
+episode  114 score -63198.50 epsilon 0.57 crash count: 7914
+0
+episode  115 score -94143.00 epsilon 0.54 crash count: 7999
+0
+episode  116 score -92505.50 epsilon 0.51 crash count: 8081
+0
+episode  117 score -85837.00 epsilon 0.48 crash count: 8153
+1
+episode  118 score -73074.00 epsilon 0.45 crash count: 8220
+0
+episode  119 score -87753.00 epsilon 0.42 crash count: 8288
+0
+episode  120 score -89988.50 epsilon 0.39 crash count: 8356
+0
+episode  121 score -91907.50 epsilon 0.35 crash count: 8436
+0
+episode  122 score -94834.50 epsilon 0.32 crash count: 8508
+0
+episode  123 score -94075.00 epsilon 0.29 crash count: 8585
+0
+episode  124 score -96114.50 epsilon 0.26 crash count: 8660
+0
+episode  125 score -98882.50 epsilon 0.23 crash count: 8729
+0
+episode  126 score -94049.50 epsilon 0.20 crash count: 8799
+0
+episode  127 score -97007.00 epsilon 0.17 crash count: 8864
+0
+episode  128 score -97457.50 epsilon 0.14 crash count: 8917
+0
+episode  129 score -96548.00 epsilon 0.11 crash count: 8964
+0
+episode  130 score -96914.00 epsilon 0.08 crash count: 9006
+0
+episode  131 score -95132.00 epsilon 0.05 crash count: 9032
+0
+episode  132 score -94295.00 epsilon 0.02 crash count: 9049
+0
+episode  133 score -94508.00 epsilon 0.01 crash count: 9057
+0
+episode  134 score -95541.50 epsilon 0.01 crash count: 9065
+0
+episode  135 score -93545.50 epsilon 0.01 crash count: 9073
+0
+episode  136 score -94930.00 epsilon 0.01 crash count: 9088
+0
+episode  137 score -95460.00 epsilon 0.01 crash count: 9103
+0
+episode  138 score -94897.00 epsilon 0.01 crash count: 9115
+0
+episode  139 score -93695.50 epsilon 0.01 crash count: 9122
+0
+episode  140 score -93439.50 epsilon 0.01 crash count: 9127
+0
+episode  141 score -93227.00 epsilon 0.01 crash count: 9136
+0
+episode  142 score -94569.50 epsilon 0.01 crash count: 9142
+0
+episode  143 score -95041.50 epsilon 0.01 crash count: 9148
+0
+episode  144 score -95204.00 epsilon 0.01 crash count: 9156
+0
+episode  145 score -93817.00 epsilon 0.01 crash count: 9163
+0
+episode  146 score -94692.00 epsilon 0.01 crash count: 9168
+0
+episode  147 score -93837.00 epsilon 0.01 crash count: 9178
+0
+episode  148 score -94874.00 epsilon 0.01 crash count: 9182
+0
+episode  149 score -94562.50 epsilon 0.01 crash count: 9189
+0
+episode  150 score -94846.50 epsilon 0.01 crash count: 9200
+1
+episode  151 score -77409.00 epsilon 0.97 crash count: 9286
+1
+episode  152 score -74177.50 epsilon 0.94 crash count: 9369
+0
+episode  153 score -97380.50 epsilon 0.91 crash count: 9479
+0
+episode  154 score -99244.50 epsilon 0.88 crash count: 9577
+2
+episode  155 score -62344.50 epsilon 0.85 crash count: 9658
+1
+episode  156 score -71261.50 epsilon 0.82 crash count: 9738
+1
+episode  157 score -73099.00 epsilon 0.78 crash count: 9825
+1
+episode  158 score -74986.50 epsilon 0.75 crash count: 9910
+4
+episode  159 score -33271.00 epsilon 0.72 crash count: 9983
+3
+episode  160 score -46918.00 epsilon 0.69 crash count: 10066
+3
+episode  161 score -50239.50 epsilon 0.66 crash count: 10144
+5
+episode  162 score -22844.00 epsilon 0.63 crash count: 10214
+3
+episode  163 score -48222.50 epsilon 0.60 crash count: 10291
+3
+episode  164 score -44605.50 epsilon 0.57 crash count: 10366
+5
+episode  165 score -23159.50 epsilon 0.54 crash count: 10438
+5
+episode  166 score -20460.00 epsilon 0.51 crash count: 10506
+4
+episode  167 score -31665.00 epsilon 0.48 crash count: 10573
+5
+episode  168 score -19494.50 epsilon 0.45 crash count: 10639
+5
+episode  169 score -17406.50 epsilon 0.42 crash count: 10703
+5
+episode  170 score -20027.50 epsilon 0.39 crash count: 10776
+7
+episode  171 score 284.50 epsilon 0.35 crash count: 10842
+5
+episode  172 score -20601.50 epsilon 0.32 crash count: 10911
+4
+episode  173 score -33016.50 epsilon 0.29 crash count: 10980
+7
+episode  174 score 1640.00 epsilon 0.26 crash count: 11051
+6
+episode  175 score -2401.00 epsilon 0.23 crash count: 11111
+5
+episode  176 score -17916.50 epsilon 0.20 crash count: 11175
+11
+episode  177 score 48711.50 epsilon 0.17 crash count: 11230
+3
+episode  178 score -38252.50 epsilon 0.14 crash count: 11298
+7
+episode  179 score 3478.50 epsilon 0.11 crash count: 11357
+4
+episode  180 score -29210.50 epsilon 0.08 crash count: 11426
+7
+episode  181 score 3761.00 epsilon 0.05 crash count: 11487
+1
+episode  182 score -59677.00 epsilon 0.02 crash count: 11558
+12
+episode  183 score 55815.00 epsilon 0.01 crash count: 11611
+10
+episode  184 score 36064.00 epsilon 0.01 crash count: 11665
+11
+episode  185 score 47423.00 epsilon 0.01 crash count: 11717
+12
+episode  186 score 58082.00 epsilon 0.01 crash count: 11769
+11
+episode  187 score 47399.50 epsilon 0.01 crash count: 11823
+12
+episode  188 score 57386.00 epsilon 0.01 crash count: 11875
+2
+episode  189 score -65263.50 epsilon 0.01 crash count: 11887
+0
+episode  190 score -96071.00 epsilon 0.01 crash count: 11887
+0
+episode  191 score -96060.50 epsilon 0.01 crash count: 11887
+0
+episode  192 score -96077.50 epsilon 0.01 crash count: 11887
+3
+episode  193 score -55746.00 epsilon 0.01 crash count: 11903
+11
+episode  194 score 47389.00 epsilon 0.01 crash count: 11955
+11
+episode  195 score 48222.00 epsilon 0.01 crash count: 12008
+11
+episode  196 score 46129.00 epsilon 0.01 crash count: 12062
+12
+episode  197 score 58148.00 epsilon 0.01 crash count: 12114
+11
+episode  198 score 47558.00 epsilon 0.01 crash count: 12166
+11
+episode  199 score 48335.00 epsilon 0.01 crash count: 12219
+11
+episode  200 score 47319.00 epsilon 0.01 crash count: 12271
+1
+episode  201 score -76431.50 epsilon 0.97 crash count: 12356
+2
+episode  202 score -64033.00 epsilon 0.94 crash count: 12440
+0
+episode  203 score -87238.00 epsilon 0.91 crash count: 12527
+2
+episode  204 score -59917.00 epsilon 0.88 crash count: 12613
+1
+episode  205 score -72358.00 epsilon 0.85 crash count: 12695
+0
+episode  206 score -86135.00 epsilon 0.82 crash count: 12780
+3
+episode  207 score -50066.50 epsilon 0.78 crash count: 12859
+4
+episode  208 score -34493.50 epsilon 0.75 crash count: 12932
+2
+episode  209 score -60345.50 epsilon 0.72 crash count: 13012
+2
+episode  210 score -62972.00 epsilon 0.69 crash count: 13095
+2
+episode  211 score -55962.50 epsilon 0.66 crash count: 13167
+4
+episode  212 score -33067.50 epsilon 0.63 crash count: 13239
+5
+episode  213 score -22314.50 epsilon 0.60 crash count: 13311
+5
+episode  214 score -24257.00 epsilon 0.57 crash count: 13385
+4
+episode  215 score -33226.00 epsilon 0.54 crash count: 13458
+3
+episode  216 score -44699.00 epsilon 0.51 crash count: 13531
+6
+episode  217 score -9625.00 epsilon 0.48 crash count: 13602
+5
+episode  218 score -20843.50 epsilon 0.45 crash count: 13670
+3
+episode  219 score -46330.00 epsilon 0.42 crash count: 13742
+4
+episode  220 score -36748.50 epsilon 0.39 crash count: 13816
+6
+episode  221 score -4620.00 epsilon 0.35 crash count: 13880
+6
+episode  222 score -7583.50 epsilon 0.32 crash count: 13949
+5
+episode  223 score -19788.00 epsilon 0.29 crash count: 14013
+7
+episode  224 score 3623.00 epsilon 0.26 crash count: 14073
+4
+episode  225 score -33710.00 epsilon 0.23 crash count: 14142
+8
+episode  226 score 15654.00 epsilon 0.20 crash count: 14198
+5
+episode  227 score -18262.00 epsilon 0.17 crash count: 14260
+6
+episode  228 score -4150.50 epsilon 0.14 crash count: 14330
+3
+episode  229 score -41606.00 epsilon 0.11 crash count: 14402
+8
+episode  230 score 14345.50 epsilon 0.08 crash count: 14461
+10
+episode  231 score 34635.50 epsilon 0.05 crash count: 14516
+10
+episode  232 score 36811.00 epsilon 0.02 crash count: 14569
+0
+episode  233 score -69224.50 epsilon 0.01 crash count: 14640
+11
+episode  234 score 47321.00 epsilon 0.01 crash count: 14692
+11
+episode  235 score 47859.50 epsilon 0.01 crash count: 14745
+0
+episode  236 score -69162.50 epsilon 0.01 crash count: 14817
+9
+episode  237 score 26970.00 epsilon 0.01 crash count: 14871
+11
+episode  238 score 46143.00 epsilon 0.01 crash count: 14925
+0
+episode  239 score -68794.50 epsilon 0.01 crash count: 14995
+12
+episode  240 score 58066.00 epsilon 0.01 crash count: 15047
+12
+episode  241 score 57703.00 epsilon 0.01 crash count: 15099
+13
+episode  242 score 68952.00 epsilon 0.01 crash count: 15149
+2
+episode  243 score -47771.50 epsilon 0.01 crash count: 15217
+13
+episode  244 score 68264.00 epsilon 0.01 crash count: 15268
+1
+episode  245 score -58146.00 epsilon 0.01 crash count: 15338
+10
+episode  246 score 37155.00 epsilon 0.01 crash count: 15391
+1
+episode  247 score -57562.00 epsilon 0.01 crash count: 15463
+12
+episode  248 score 58052.00 epsilon 0.01 crash count: 15515
+11
+episode  249 score 47657.00 epsilon 0.01 crash count: 15567
+11
+episode  250 score 47360.00 epsilon 0.01 crash count: 15620
+1
+episode  251 score -74771.00 epsilon 0.97 crash count: 15704
+0
+episode  252 score -91403.50 epsilon 0.94 crash count: 15802
+0
+episode  253 score -88426.00 epsilon 0.91 crash count: 15895
+2
+episode  254 score -62763.50 epsilon 0.88 crash count: 15976
+3
+episode  255 score -49709.50 epsilon 0.85 crash count: 16056
+2
+episode  256 score -63651.00 epsilon 0.82 crash count: 16147
+5
+episode  257 score -27020.00 epsilon 0.78 crash count: 16224
+3
+episode  258 score -48115.50 epsilon 0.75 crash count: 16300
+7
+episode  259 score -794.50 epsilon 0.72 crash count: 16376
+3
+episode  260 score -48390.00 epsilon 0.69 crash count: 16453
+1
+episode  261 score -74280.50 epsilon 0.66 crash count: 16535
+6
+episode  262 score -11700.50 epsilon 0.63 crash count: 16604
+4
+episode  263 score -35346.50 epsilon 0.60 crash count: 16686
+3
+episode  264 score -43368.00 epsilon 0.57 crash count: 16758
+3
+episode  265 score -42721.00 epsilon 0.54 crash count: 16829
+5
+episode  266 score -23082.00 epsilon 0.51 crash count: 16902
+4
+episode  267 score -32220.00 epsilon 0.48 crash count: 16972
+4
+episode  268 score -37645.50 epsilon 0.45 crash count: 17055
+6
+episode  269 score -12752.00 epsilon 0.42 crash count: 17123
+5
+episode  270 score -22996.50 epsilon 0.39 crash count: 17208
+8
+episode  271 score 11854.50 epsilon 0.35 crash count: 17273
+4
+episode  272 score -35190.50 epsilon 0.32 crash count: 17345
+5
+episode  273 score -16291.50 epsilon 0.29 crash count: 17408
+7
+episode  274 score 2672.50 epsilon 0.26 crash count: 17471
+5
+episode  275 score -21504.00 epsilon 0.23 crash count: 17537
+5
+episode  276 score -18079.00 epsilon 0.20 crash count: 17600
+7
+episode  277 score 6073.00 epsilon 0.17 crash count: 17658
+7
+episode  278 score 2861.50 epsilon 0.14 crash count: 17719
+8
+episode  279 score 15097.50 epsilon 0.11 crash count: 17776
+8
+episode  280 score 14402.00 epsilon 0.08 crash count: 17833
+9
+episode  281 score 26693.00 epsilon 0.05 crash count: 17889
+12
+episode  282 score 57083.00 epsilon 0.02 crash count: 17941
+12
+episode  283 score 56999.00 epsilon 0.01 crash count: 17994
+10
+episode  284 score 38048.50 epsilon 0.01 crash count: 18047
+11
+episode  285 score 48242.00 epsilon 0.01 crash count: 18100
+0
+episode  286 score -69996.50 epsilon 0.01 crash count: 18172
+11
+episode  287 score 48057.50 epsilon 0.01 crash count: 18225
+11
+episode  288 score 47709.00 epsilon 0.01 crash count: 18277
+0
+episode  289 score -68189.50 epsilon 0.01 crash count: 18347
+11
+episode  290 score 46473.00 epsilon 0.01 crash count: 18400
+11
+episode  291 score 46829.00 epsilon 0.01 crash count: 18453
+13
+episode  292 score 68598.00 epsilon 0.01 crash count: 18504
+11
+episode  293 score 47381.00 epsilon 0.01 crash count: 18557
+11
+episode  294 score 47689.50 epsilon 0.01 crash count: 18609
+11
+episode  295 score 47888.50 epsilon 0.01 crash count: 18662
+11
+episode  296 score 47365.00 epsilon 0.01 crash count: 18714
+11
+episode  297 score 48185.00 epsilon 0.01 crash count: 18766
+12
+episode  298 score 57934.00 epsilon 0.01 crash count: 18818
+10
+episode  299 score 35124.00 epsilon 0.01 crash count: 18873
+12
+episode  300 score 57934.00 epsilon 0.01 crash count: 18925
+1
+episode  301 score -75162.00 epsilon 0.97 crash count: 19009
+1
+episode  302 score -74821.00 epsilon 0.94 crash count: 19092
+0
+episode  303 score -88409.00 epsilon 0.91 crash count: 19177
+1
+episode  304 score -70452.50 epsilon 0.88 crash count: 19259
+0
+episode  305 score -86719.00 epsilon 0.85 crash count: 19345
+3
+episode  306 score -48128.00 epsilon 0.82 crash count: 19422
+2
+episode  307 score -62722.00 epsilon 0.78 crash count: 19504
+1
+episode  308 score -73835.50 epsilon 0.75 crash count: 19588
+1
+episode  309 score -70132.50 epsilon 0.72 crash count: 19674
+2
+episode  310 score -61530.00 epsilon 0.69 crash count: 19756
+3
+episode  311 score -44395.00 epsilon 0.66 crash count: 19828
+0
+episode  312 score -88060.50 epsilon 0.63 crash count: 19914
+4
+episode  313 score -34043.50 epsilon 0.60 crash count: 19986
+4
+episode  314 score -35589.00 epsilon 0.57 crash count: 20059
+4
+episode  315 score -35507.00 epsilon 0.54 crash count: 20133
+6
+episode  316 score -8594.00 epsilon 0.51 crash count: 20199
+2
+episode  317 score -59875.00 epsilon 0.48 crash count: 20274
+7
+episode  318 score 90.50 epsilon 0.45 crash count: 20349
+5
+episode  319 score -20204.50 epsilon 0.42 crash count: 20417
+5
+episode  320 score -22197.50 epsilon 0.39 crash count: 20493
+5
+episode  321 score -21651.50 epsilon 0.35 crash count: 20569
+4
+episode  322 score -31070.00 epsilon 0.32 crash count: 20627
+4
+episode  323 score -27720.50 epsilon 0.29 crash count: 20690
+6
+episode  324 score -7760.50 epsilon 0.26 crash count: 20758
+6
+episode  325 score -6776.50 epsilon 0.23 crash count: 20819
+8
+episode  326 score 13378.00 epsilon 0.20 crash count: 20880
+5
+episode  327 score -17444.50 epsilon 0.17 crash count: 20947
+4
+episode  328 score -31418.00 epsilon 0.14 crash count: 21013
+7
+episode  329 score 5786.50 epsilon 0.11 crash count: 21070
+3
+episode  330 score -48815.50 epsilon 0.08 crash count: 21104
+0
+episode  331 score -95752.00 epsilon 0.05 crash count: 21104
+10
+episode  332 score 32578.50 epsilon 0.02 crash count: 21153
+11
+episode  333 score 48651.50 epsilon 0.01 crash count: 21206
+10
+episode  334 score 36899.50 epsilon 0.01 crash count: 21260
+10
+episode  335 score 35809.00 epsilon 0.01 crash count: 21315
+0
+episode  336 score -69100.00 epsilon 0.01 crash count: 21389
+11
+episode  337 score 47883.00 epsilon 0.01 crash count: 21441
+10
+episode  338 score 35812.50 epsilon 0.01 crash count: 21495
+11
+episode  339 score 47283.00 epsilon 0.01 crash count: 21547
+9
+episode  340 score 24933.00 epsilon 0.01 crash count: 21603
+11
+episode  341 score 47517.00 epsilon 0.01 crash count: 21655
+12
+episode  342 score 57057.00 epsilon 0.01 crash count: 21708
+1
+episode  343 score -57063.00 epsilon 0.01 crash count: 21777
+12
+episode  344 score 57460.50 epsilon 0.01 crash count: 21830
+0
+episode  345 score -68752.50 epsilon 0.01 crash count: 21901
+12
+episode  346 score 58082.00 epsilon 0.01 crash count: 21953
+11
+episode  347 score 47051.00 epsilon 0.01 crash count: 22006
+11
+episode  348 score 47736.50 epsilon 0.01 crash count: 22059
+12
+episode  349 score 57934.00 epsilon 0.01 crash count: 22111
+11
+episode  350 score 47369.00 epsilon 0.01 crash count: 22163
+2
+episode  351 score -62477.50 epsilon 0.97 crash count: 22245
+2
+episode  352 score -61226.00 epsilon 0.94 crash count: 22323
+4
+episode  353 score -40433.00 epsilon 0.91 crash count: 22403
+1
+episode  354 score -73706.50 epsilon 0.88 crash count: 22486
+2
+episode  355 score -61809.00 epsilon 0.85 crash count: 22566
+6
+episode  356 score -11700.50 epsilon 0.82 crash count: 22637
+0
+episode  357 score -85039.00 epsilon 0.78 crash count: 22721
+3
+episode  358 score -48494.50 epsilon 0.75 crash count: 22800
+3
+episode  359 score -46300.00 epsilon 0.72 crash count: 22874
+1
+episode  360 score -73303.50 epsilon 0.69 crash count: 22955
+3
+episode  361 score -48727.50 epsilon 0.66 crash count: 23032
+2
+episode  362 score -55585.00 epsilon 0.63 crash count: 23104
+6
+episode  363 score -13475.00 epsilon 0.60 crash count: 23177
+0
+episode  364 score -90313.50 epsilon 0.57 crash count: 23246
+0
+episode  365 score -94951.50 epsilon 0.54 crash count: 23300
+0
+episode  366 score -96154.50 epsilon 0.51 crash count: 23355
+0
+episode  367 score -96398.50 epsilon 0.48 crash count: 23400
+0
+episode  368 score -96569.00 epsilon 0.45 crash count: 23441
+0
+episode  369 score -90475.50 epsilon 0.42 crash count: 23490
+3
+episode  370 score -40079.50 epsilon 0.39 crash count: 23563
+6
+episode  371 score -8239.00 epsilon 0.35 crash count: 23628
+3
+episode  372 score -40832.00 epsilon 0.32 crash count: 23693
+3
+episode  373 score -45521.50 epsilon 0.29 crash count: 23769
+7
+episode  374 score 7253.00 epsilon 0.26 crash count: 23827
+3
+episode  375 score -41901.50 epsilon 0.23 crash count: 23905
+5
+episode  376 score -18915.50 epsilon 0.20 crash count: 23971
+8
+episode  377 score 12563.50 epsilon 0.17 crash count: 24031
+6
+episode  378 score -10089.50 epsilon 0.14 crash count: 24094
+9
+episode  379 score 24404.50 epsilon 0.11 crash count: 24151
+8
+episode  380 score 13980.50 epsilon 0.08 crash count: 24209
+9
+episode  381 score 27254.50 epsilon 0.05 crash count: 24263
+10
+episode  382 score 36369.00 epsilon 0.02 crash count: 24317
+1
+episode  383 score -57958.50 epsilon 0.01 crash count: 24385
+11
+episode  384 score 47001.00 epsilon 0.01 crash count: 24438
+11
+episode  385 score 48197.50 epsilon 0.01 crash count: 24490
+11
+episode  386 score 47324.00 epsilon 0.01 crash count: 24542
+11
+episode  387 score 46499.00 epsilon 0.01 crash count: 24595
+12
+episode  388 score 58094.50 epsilon 0.01 crash count: 24647
+11
+episode  389 score 46913.00 epsilon 0.01 crash count: 24700
+11
+episode  390 score 47534.00 epsilon 0.01 crash count: 24754
+12
+episode  391 score 58413.00 epsilon 0.01 crash count: 24805
+0
+episode  392 score -69275.50 epsilon 0.01 crash count: 24876
+11
+episode  393 score 46508.00 epsilon 0.01 crash count: 24930
+11
+episode  394 score 47640.50 epsilon 0.01 crash count: 24983
+11
+episode  395 score 47049.00 epsilon 0.01 crash count: 25036
+0
+episode  396 score -69912.00 epsilon 0.01 crash count: 25109
+11
+episode  397 score 46177.00 epsilon 0.01 crash count: 25163
+11
+episode  398 score 47047.50 epsilon 0.01 crash count: 25216
+11
+episode  399 score 46616.00 epsilon 0.01 crash count: 25270

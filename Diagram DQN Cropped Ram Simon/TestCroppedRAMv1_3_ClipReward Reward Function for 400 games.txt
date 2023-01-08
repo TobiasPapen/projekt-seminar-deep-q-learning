@@ -1,0 +1,54 @@
+class ClipReward(gym.RewardWrapper):
+    #Method to initialize the updated reward function
+    def __init__(self, env, min_reward, max_reward):
+        #Inheritance: calling construtor of the super class
+        super().__init__(env)
+
+        #Saving the given parameters
+        self.pre_pos = 6                                    #previous position of the chicken (lowest value = 6)
+        self.min_reward = min_reward                        #minimum reward
+        self.max_reward = max_reward                        #maximum reward
+        self.reward_range = (min_reward, max_reward)        #range of the reward
+
+        #Initialising temporary parameters
+        self.targetRuns = 0                                 #number of target runs
+        self.crashCount=0                                   #number of crashes in a game
+        self.ladder=[0]*180                                 #unique y positions
+
+    def reward(self, reward):
+        #Recieving the RAM
+        ram = env.unwrapped.ale.getRAM()
+        #Saving the current position and the cooldown value of the chicken
+        #The cooldown value is not zero if the chicken got hit, was reseted and now needs to wait for a short time
+        current_pos = ram[14]
+        cooldown = ram[106]
+        
+        reward = 0
+        if(self.pre_pos<current_pos and self.ladder[current_pos]==0):   #is ladder position new?
+            reward += 50                                                #Reward for visiting unique (before next target run) position 
+            self.ladder[current_pos]=1                                  #ladder position not new anymore
+        
+        #Chicken reaches the goal
+        if 140 <= ram[106] <= 141:
+            reward += 10000
+            self.targetRuns+=1
+        
+        #Chicken got run over
+        if 90 <= ram[106] <= 100:
+            reward -= 100
+            self.crashCount+=1
+        else:
+            reward += 0
+        self.pre_pos = current_pos                                      #Current position will be the previous position in the next transition
+        return np.clip(reward, self.min_reward, self.max_reward)
+    #get methods
+    def getTargetRuns(self):
+        return self.targetRuns                                         
+    def getCrashCount(self):
+        return self.crashCount
+
+    #reset method
+    def targetReset(self):                                              #reset temporary parameters
+        self.targetRuns = 0
+        self.crashCount = 0
+        self.ladder=[0]*180
