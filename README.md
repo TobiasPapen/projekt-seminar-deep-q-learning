@@ -32,6 +32,8 @@ Dieses Verzeichnis enthält die Graphen, die während der Einzelarbeit von Jan F
 Dieses Verzeichnis enthält die Graphen, die während der Einzelarbeit von Paul Jansen entstanden sind
 - ***Diagram DQN Cropped Ram Simon:***
 Dieses Verzeichnis enthält die Diagramme, die während der Einzelarbeit von Simon Lausch entstanden sind
+- ***Finale Präsentation***
+Diese Datei enthält die Powerpoint Präsentation, die für die finale Vorstellung der  im Rahmen des Deep Learning Kurses erarbeiteten Deep Reinforcement Learning Strategien verwendet wurde
 
 ### Zur Einrichtung der Arbeitsumgebung: ###
 Zur Einrichtung unserer Arbeitsumgebung haben wir die Python Distribution Anaconda verwendet.
